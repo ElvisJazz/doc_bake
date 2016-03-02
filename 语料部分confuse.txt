@@ -1,0 +1,42 @@
+歧义的句子：
+
+<sentence id="1" opinionated="Y" polarity="NEG" target_word_1="魔境仙踪" target_begin_1="0" target_end_1="3" target_polarity_1="NEG">魔境仙踪是我有生以来第一个看睡着的电影 回家补看了两集哈利波特才过瘾 我在:http://t.cn/zTwryV</sentence>
+
+【动产登记条例明年出台 或为开征房产税做铺垫】不动产统一登记制度建立后，可以更好地落实《物权法》，有效保护不动产权利人的合法财产权。
+
+<sentence id="3" opinionated="Y" polarity="POS" target_word_1="不动产登记条例" target_begin_1="1" target_end_1="7" target_polarity_1="POS">同时也减少了很多“房哥”“房姐”。</sentence>
+
+<sentence id="1" opinionated="Y" polarity="NEG" target_word_1="中国英语教育" target_begin_1="14" target_end_1="19" target_polarity_1="NEG" target_word_2="整个中国教育" target_begin_2="26" target_end_2="31" target_polarity_2="NEG">#中国方言式英语# 充分证明中国英语教育的失败，其实整个中国教育都失败了，是为了考试而教育，是为了区分谁能考高分而考试，而非提高人的素质和应用水平 详情:http://t.cn/zThM9N</sentence>
+
+<sentence id="2" opinionated="Y" polarity="NEG" target_word_1="动作" target_begin_1="17" target_end_1="18" target_polarity_1="NEG" target_word_2="某些人" target_begin_2="23" target_end_2="25" target_polarity_2="NEG">动作太慢，给某些人留有很大的空间和时间去操作，其结果就是每次都是温水煮青蛙，毫无效果。</sentence>
+<sentence id="2" opinionated="Y" polarity="POS" target_word_1="视觉效果" target_begin_1="37" target_end_1="40" target_polarity_1="POS" target_word_2="12个板块式大图标" target_begin_2="47" target_end_2="55" target_polarity_2="POS">一是对图标的改进，虽然从开放回归了封闭，但视觉效果提升了不少，12个板块式大图标很加分。</sentence>
+<sentence id="3" opinionated="Y" polarity="POS" target_word_1="各种人性化细节" target_begin_1="62" target_end_1="68" target_polarity_1="POS" target_word_2="通讯录" target_begin_2="75" target_end_2="77" target_polarity_2="POS" target_word_3="照相" target_begin_3="79" target_end_3="80" target_polarity_3="POS" target_word_4="摄像分离" target_begin_4="82" target_end_4="85" target_polarity_4="POS">二是各种人性化细节的改进，像是通讯录、照相、摄像分离等等。</sentence>
+
+最近只是想吐槽一下最近刚出的锤子rom，老罗勇气可嘉，但是这个rom实在没给我带来太多惊艳的东西，其实这个也在意料之内，毕竟还是基于安卓制作的，不过想毫秒小米或魅族，尚需时日。
+
+<sentence id="1" opinionated="Y" polarity="POS" target_word_1="老罗的锤子ROM" target_begin_1="5" target_end_1="12" target_polarity_1="POS">刚看了一下老罗的锤子ROM，对于我这种刚从塞班过渡到安卓的NEW GUY来说，都感觉不错，老罗还是用心了，现在来看看优化如何，如果支持的机型多一些，我就刷一个</sentence>
+
+<sentence id="3" opinionated="Y" polarity="OTHER" target_word_1="锤子的图标" target_begin_1="36" target_end_1="40" target_polarity_1="POS" target_word_2="九宫格的观感" target_begin_2="78" target_end_2="83" target_polarity_2="NEG">我觉得：1，锤子的图标单个来看，每个都很精致，说不好看的只不过是习惯了圆角矩形，但从大屏幕上看，九宫格的观感不佳，不知道手机上看会不会好些。
+这标准太无语了。
+
+<sentence id="2" opinionated="Y" polarity="POS" target_word_1="这个ROM" target_begin_1="74" target_end_1="78" target_polarity_1="POS">这个ROM虽然并不像大家期待的那样有彻底的革命性，但是的确在人性化功能上做出了一些不一样的东西，并且相当简洁漂 http://t.cn/zT7qZi</sentence>
+</weibo>
+
+小米v5稍好但很多时候太注重视觉效果而忽略了易用性。
+这个标注也很无语。
+
+囤房的人，颤抖吧，贪官们，赶紧转移
+贪官对应后面的转移（非贬义）
+
+制定此条例比彼条例（农地征补条例）快多了。
+指定未被纳入评价对象，动宾结构无法。
+
+复杂的句子：
+2014年6月底前出台不动产登记条例，对此，潘石屹评论称这是个好政策，并大胆预测，如果今年实施房价马上会跌。
+
+我又开始看靖哥哥版的新笑傲江湖了~好唯美~这才是我心目中的江湖
+
+隔壁宿舍在看新版《笑傲江湖》~~~还是觉得96TVB版的《笑傲江湖》最经典啦吕颂贤的令狐冲那叫一个帅啊
+
+
+LaTex正文，NoteExpress写参考文献
